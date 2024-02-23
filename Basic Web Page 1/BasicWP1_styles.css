@@ -1,0 +1,49 @@
+/* styles.css for Basicwebpage_Proj1.html*/
+
+.text-container {
+    position:relative;
+    background: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*165wvi9*_ga*NjkxMjc4ODkwMC4xNjg2MzU5OTQy*_ga_3LRZM6TM9L*MTcwODY0NDA0MS4xMy4wLjE3MDg2NDQwNDEuNjAuMC4w);
+    text-align:center;
+
+}
+
+#title {
+    font-family:Helvetica;
+    font-size:100px;
+    font-weight:bold;
+    color:khaki;
+    text-align: center;
+
+}
+
+#brushes {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+    background-color: mediumspringgreen;
+}
+
+#frames {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+    background-color: lightcoral;
+}
+
+#paint {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+    background-color: skyblue;
+}
+
+#price {
+    font-family: Helvetica;
+    font-weight: bold;
+    color:blue;
+}
+
+/* Add styles for other HTML elements as needed */
